@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "972667030622",
+    "firebase_url": "https://roomor-28ee6.firebaseio.com",
+    "project_id": "roomor-28ee6",
+    "storage_bucket": "roomor-28ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972667030622:android:094f98e56b739d5b",
+        "android_client_info": {
+          "package_name": "com.garren.roomate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972667030622-dmbq6ucm7ct18lppqbk8sh0tn8lj1a0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArnwdguDETgX5hv2uk4vMUx5idmW3pMVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
